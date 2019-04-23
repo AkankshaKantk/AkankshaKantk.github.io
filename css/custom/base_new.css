@@ -1,0 +1,49 @@
+title{
+    margin: auto;
+}
+
+.section {
+    margin-top: 1%;
+}
+
+video {
+    width: 100%;
+}
+
+.star-checked {
+    color: white;
+}
+
+.fa-star{
+    margin-left:2%;
+}
+
+.fa-facebook:active, .fa-facebook:hover, .fa-twitter:active, .fa-twitter:hover, .fa-linkedin:active, .fa-linkedin:hover {
+    color: #fe414d;
+    background: white;
+    text-decoration: none;
+}
+
+.fa-facebook, .fa-twitter, .fa-linkedin {
+    color: #fe414d;
+    background: white;
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 1% 2%;
+    border-radius: 50%;
+}
+
+
+body {
+    background-color: #fe414d;
+    color:white;
+    font-family: "Arial","Helvetica","Arial",sans-serif;
+}
+
+.btn-primary,.btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn-outline-primary {
+    background-color: white !important;
+    color: black !important;
+}
